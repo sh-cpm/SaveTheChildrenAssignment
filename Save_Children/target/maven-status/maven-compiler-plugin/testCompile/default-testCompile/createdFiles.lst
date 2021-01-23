@@ -1,0 +1,5 @@
+com\save\children\model\PersonTest.class
+com\save\children\controller\SmokeTest.class
+com\save\children\MainTest.class
+com\save\children\controller\HttpRequestTest.class
+com\save\children\controller\PersonControllerTest.class
